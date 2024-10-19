@@ -8,5 +8,5 @@ This repository contains code for detecting cars in images and videos using YOLO
 </br>Bounding box visualization
 </br>Confidence thresholding
 </br><b>Prerequisites:</b>
-Python
-YOLOv8 (via the Ultralytics repository)
+</br>Python
+</br>YOLOv8 (via the Ultralytics repository)
